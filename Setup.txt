@@ -1,0 +1,11 @@
+create-react-app management
+
+npm install -g yarn
+
+yarn start
+
+#폴더생성
+components
+└Customer.js
+
+yarn add @mui/material @emotion/react @emotion/styled
